@@ -1,6 +1,6 @@
 <h1> Hola soy Karen </h1>
 
-![](https://th.bing.com/th/id/OIG.YKHxZqkE2vdpTMZLP0fJ?w=1024&h=1024&rs=1&pid=ImgDetMain)
+![](https://th.bing.com/th/id/OIG.YKHxZqkE2vdpTMZLP0fJ?w=1024&h=500&rs=1&pid=ImgDetMain)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
