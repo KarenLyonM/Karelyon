@@ -1,11 +1,8 @@
-### Hi there 👋
+<h1> Hola soy Karen </h1>
 
-<!--
-**Karelyon/Karelyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://th.bing.com/th/id/OIG.ca.F22b7WfOlw.WW49I.?w=1024&h=1024&rs=1&pid=ImgDetMain)
+- 🔭 I’m currently working on 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
